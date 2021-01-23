@@ -19,7 +19,7 @@
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^6.2.0",
-    "express": "^4.16.4"
+    "express": "^4.16.4",
     "bluebird": "^3.7.2",
     "cheerio": "^1.0.0-rc.5",
     "loader": "^2.1.1",
